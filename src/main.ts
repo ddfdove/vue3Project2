@@ -9,3 +9,5 @@ const fun = () =>
     console.log('没有格式化的代码');
     
 }
+
+fun()
