@@ -5,9 +5,7 @@
 <script setup lang="ts"></script>
 
 <style lang="less" scoped>
-.main{
+.main {
   height: 400px;
-
-  
 }
 </style>
